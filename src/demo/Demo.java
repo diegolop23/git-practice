@@ -9,4 +9,8 @@ public class Demo {
 	public void print() {
 		System.out.println("Printing stuff");
 	}
+	
+	public void test() {
+		System.out.println("This is a test method");
+	}
 }
